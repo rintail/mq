@@ -1,0 +1,6 @@
+rootProject.name = 'mq_test'
+
+include 'activemq'
+
+include 'Common'
+
