@@ -4,3 +4,9 @@ include 'activemq'
 
 include 'Common'
 
+include 'kafka'
+
+include 'Redis'
+
+include 'Jafka'
+
